@@ -1,0 +1,170 @@
+G:\repos\Sneaker\Sneaker\bin\Sneaker.dll.config
+G:\repos\Sneaker\Sneaker\bin\Sneaker.dll
+G:\repos\Sneaker\Sneaker\bin\Sneaker.pdb
+G:\repos\Sneaker\Sneaker\bin\roslyn\csc.exe
+G:\repos\Sneaker\Sneaker\bin\roslyn\csc.exe.config
+G:\repos\Sneaker\Sneaker\bin\roslyn\csc.rsp
+G:\repos\Sneaker\Sneaker\bin\roslyn\csi.exe
+G:\repos\Sneaker\Sneaker\bin\roslyn\csi.exe.config
+G:\repos\Sneaker\Sneaker\bin\roslyn\csi.rsp
+G:\repos\Sneaker\Sneaker\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\repos\Sneaker\Sneaker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\repos\Sneaker\Sneaker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\repos\Sneaker\Sneaker\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\repos\Sneaker\Sneaker\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\repos\Sneaker\Sneaker\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\repos\Sneaker\Sneaker\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\repos\Sneaker\Sneaker\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\repos\Sneaker\Sneaker\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\repos\Sneaker\Sneaker\bin\roslyn\Microsoft.Managed.Core.targets
+G:\repos\Sneaker\Sneaker\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\repos\Sneaker\Sneaker\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\repos\Sneaker\Sneaker\bin\roslyn\System.AppContext.dll
+G:\repos\Sneaker\Sneaker\bin\roslyn\System.Collections.Immutable.dll
+G:\repos\Sneaker\Sneaker\bin\roslyn\System.Console.dll
+G:\repos\Sneaker\Sneaker\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\repos\Sneaker\Sneaker\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\repos\Sneaker\Sneaker\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\repos\Sneaker\Sneaker\bin\roslyn\System.Globalization.Calendars.dll
+G:\repos\Sneaker\Sneaker\bin\roslyn\System.IO.Compression.dll
+G:\repos\Sneaker\Sneaker\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\repos\Sneaker\Sneaker\bin\roslyn\System.IO.FileSystem.dll
+G:\repos\Sneaker\Sneaker\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\repos\Sneaker\Sneaker\bin\roslyn\System.Net.Http.dll
+G:\repos\Sneaker\Sneaker\bin\roslyn\System.Net.Sockets.dll
+G:\repos\Sneaker\Sneaker\bin\roslyn\System.Reflection.Metadata.dll
+G:\repos\Sneaker\Sneaker\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\repos\Sneaker\Sneaker\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\repos\Sneaker\Sneaker\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\repos\Sneaker\Sneaker\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\repos\Sneaker\Sneaker\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\repos\Sneaker\Sneaker\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\repos\Sneaker\Sneaker\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\repos\Sneaker\Sneaker\bin\roslyn\System.ValueTuple.dll
+G:\repos\Sneaker\Sneaker\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\repos\Sneaker\Sneaker\bin\roslyn\System.Xml.XmlDocument.dll
+G:\repos\Sneaker\Sneaker\bin\roslyn\System.Xml.XPath.dll
+G:\repos\Sneaker\Sneaker\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\repos\Sneaker\Sneaker\bin\roslyn\vbc.exe
+G:\repos\Sneaker\Sneaker\bin\roslyn\vbc.exe.config
+G:\repos\Sneaker\Sneaker\bin\roslyn\vbc.rsp
+G:\repos\Sneaker\Sneaker\bin\roslyn\VBCSCompiler.exe
+G:\repos\Sneaker\Sneaker\bin\roslyn\VBCSCompiler.exe.config
+G:\repos\Sneaker\Sneaker\bin\Antlr3.Runtime.dll
+G:\repos\Sneaker\Sneaker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\repos\Sneaker\Sneaker\bin\Microsoft.Web.Infrastructure.dll
+G:\repos\Sneaker\Sneaker\bin\Newtonsoft.Json.dll
+G:\repos\Sneaker\Sneaker\bin\System.Web.Helpers.dll
+G:\repos\Sneaker\Sneaker\bin\System.Web.Mvc.dll
+G:\repos\Sneaker\Sneaker\bin\System.Web.Optimization.dll
+G:\repos\Sneaker\Sneaker\bin\System.Web.Razor.dll
+G:\repos\Sneaker\Sneaker\bin\System.Web.WebPages.Deployment.dll
+G:\repos\Sneaker\Sneaker\bin\System.Web.WebPages.dll
+G:\repos\Sneaker\Sneaker\bin\System.Web.WebPages.Razor.dll
+G:\repos\Sneaker\Sneaker\bin\WebGrease.dll
+G:\repos\Sneaker\Sneaker\bin\System.Web.Helpers.xml
+G:\repos\Sneaker\Sneaker\bin\System.Web.Mvc.xml
+G:\repos\Sneaker\Sneaker\bin\System.Web.Optimization.xml
+G:\repos\Sneaker\Sneaker\bin\System.Web.Razor.xml
+G:\repos\Sneaker\Sneaker\bin\System.Web.WebPages.xml
+G:\repos\Sneaker\Sneaker\bin\System.Web.WebPages.Deployment.xml
+G:\repos\Sneaker\Sneaker\bin\System.Web.WebPages.Razor.xml
+G:\repos\Sneaker\Sneaker\bin\Newtonsoft.Json.xml
+G:\repos\Sneaker\Sneaker\bin\Antlr3.Runtime.pdb
+G:\repos\Sneaker\Sneaker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\repos\Sneaker\Sneaker\obj\Debug\Sneaker.csproj.CoreCompileInputs.cache
+G:\repos\Sneaker\Sneaker\obj\Debug\Sneaker.csproj.CopyComplete
+G:\repos\Sneaker\Sneaker\obj\Debug\Sneaker.dll
+G:\repos\Sneaker\Sneaker\obj\Debug\Sneaker.pdb
+G:\repos\Sneaker\Sneaker\bin\System.Data.SqlClient.dll
+G:\repos\Sneaker\Sneaker\bin\System.Data.SqlClient.xml
+G:\repos\Sneaker\Sneaker\bin\PagedList.dll
+G:\repos\Sneaker\Sneaker\bin\PagedList.Mvc.dll
+G:\repos\Sneaker\Sneaker\bin\PagedList.xml
+G:\repos\Sneaker\Sneaker\bin\PagedList.Mvc.xml
+G:\repos\Sneaker\Sneaker\obj\Debug\Sneaker.csproj.AssemblyReference.cache
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\Sneaker.dll.config
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\Sneaker.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\Sneaker.pdb
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\csc.exe
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\csc.exe.config
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\csc.rsp
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\csi.exe
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\csi.exe.config
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\csi.rsp
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\Microsoft.Managed.Core.targets
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\System.AppContext.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\System.Collections.Immutable.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\System.Console.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\System.Globalization.Calendars.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\System.IO.Compression.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\System.IO.FileSystem.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\System.Net.Http.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\System.Net.Sockets.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\System.Reflection.Metadata.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\System.ValueTuple.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\System.Xml.XmlDocument.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\System.Xml.XPath.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\vbc.exe
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\vbc.exe.config
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\vbc.rsp
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\VBCSCompiler.exe
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\roslyn\VBCSCompiler.exe.config
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\Antlr3.Runtime.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\Microsoft.Web.Infrastructure.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\Newtonsoft.Json.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\PagedList.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\PagedList.Mvc.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\System.Data.SqlClient.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\System.Web.Helpers.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\System.Web.Mvc.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\System.Web.Optimization.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\System.Web.Razor.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\System.Web.WebPages.Deployment.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\System.Web.WebPages.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\System.Web.WebPages.Razor.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\WebGrease.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\PagedList.xml
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\PagedList.Mvc.xml
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\System.Data.SqlClient.xml
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\System.Web.Helpers.xml
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\System.Web.Mvc.xml
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\System.Web.Optimization.xml
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\System.Web.Razor.xml
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\System.Web.WebPages.xml
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\System.Web.WebPages.Deployment.xml
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\System.Web.WebPages.Razor.xml
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\Newtonsoft.Json.xml
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\Antlr3.Runtime.pdb
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\obj\Debug\Sneaker.csproj.AssemblyReference.cache
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\obj\Debug\Sneaker.csproj.CoreCompileInputs.cache
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\obj\Debug\Sneaker.csproj.CopyComplete
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\obj\Debug\Sneaker.dll
+D:\HocTap\NAM3\CNPM HDT\Sneaker\Sneaker\Sneaker\obj\Debug\Sneaker.pdb

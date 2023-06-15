@@ -1,0 +1,47 @@
+﻿@using Sneaker.Models
+@using PagedList.Mvc;
+@model PagedList.PagedList<Sneaker.Models.DonDatHang>
+@{
+    ViewBag.Title = "DonDatHang";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<br />
+<br />
+<h2 style="text-align:center;font-weight:bold">Quản lý thông tin đơn đặt hàng</h2>
+<br />
+<table align="center" border="1" cellpadding="10">
+    <tr align="center" , style="height:50px">
+        <th style="width:100px;color:red;font-size:20px">Mã đơn hàng</th>
+        <th style="width:100px;color:red;font-size:20px">Mã khách hàng</th>
+        <th style="width:250px;color:red;font-size:20px">Tên khách hàng</th>
+        <th style="width:225px;color:red;font-size:20px">Ngày đặt</th>
+        <th style="width:150px;color:red;font-size:20px">Công cụ</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr align="center" , style="height:50px">
+            <td style="font-weight:bold">
+                @Html.DisplayFor(modelItem => item.MaDonHang)
+            </td>
+            <td style="font-weight:bold">
+                @Html.DisplayFor(modelItem => item.MaKH)
+            </td>
+            <td style="font-weight:bold">
+                @Html.DisplayFor(modelItem => item.KhachHang.HoTen)
+            </td>
+            <td style="font-weight:bold">
+                @Html.DisplayFor(modelItem => item.NgayDat)
+            </td>
+        </tr>
+    }
+</table>
+<br />
+<div class="col-md-offset-6 col-md-12">
+    <td>
+        <button class="btn btn-primary" style="font-size:20px;" onclick="location.href='@Url.Action("ChiTietKH", "Member", new { id = (Session["TaiKhoan"] as KhachHang).MaKH })'"><i class="fa fa-info-circle"></i> Quay lại </button>
+    </td>
+</div>
+
+
