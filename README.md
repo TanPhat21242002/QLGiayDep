@@ -1,6 +1,9 @@
 # QLGiayDep
+
 C# và .NET 
+
 Tải về thay đổi connect strings trong web.config và RUN
+
 Có phân quyền 2 role: người dùng và admin.
 
 ## 1. General Usecase
